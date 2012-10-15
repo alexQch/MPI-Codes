@@ -9,3 +9,6 @@ using synchronous Send/Recieve
 
 using MPI_Probe, MPI_Get_count to recive Dynamic Size data
 	1- DynamicSendRecieve.
+
+using MPI_Scatter, MPI_Gather to scatter random array digits and calculate average
+	1- AverageNumbers.
