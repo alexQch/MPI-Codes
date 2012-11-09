@@ -15,3 +15,7 @@ using MPI_Probe, MPI_Get_count to recive Dynamic Size data
 
 using MPI_Scatter, MPI_Gather to scatter random array digits and calculate average
 	1- AverageNumbers.
+
+Second: Simple Programs:
+	1- OddEven Sort.
+	2- PI Estimation using Randomness.
