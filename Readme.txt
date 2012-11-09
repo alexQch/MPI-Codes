@@ -19,3 +19,4 @@ using MPI_Scatter, MPI_Gather to scatter random array digits and calculate avera
 Second: Simple Programs:
 	1- OddEven Sort.
 	2- PI Estimation using Randomness.
+	3- Parallel Merge Sort(combining sub-problems using Tree Communication Structure).
